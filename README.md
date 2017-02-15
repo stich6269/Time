@@ -1,6 +1,6 @@
-## Swapper project (MVC)
+## Simple clock project
 
-You can run the project from github server using link: [Swapper live demo.](http://stich6269.github.io/Swapper/) 
+You can run the project from github server using link: [Live demo.](http://stich6269.github.io/Time/) 
 
 ### Technologies
 
@@ -10,7 +10,7 @@ You can run the project from github server using link: [Swapper live demo.](http
 ### Installation
 
 ```sh
-$ git clone https://github.com/stich6269/Swapper.git
+$ git clone https://github.com/stich6269/Time.git
 ```
 
 ### Running App
